@@ -1,5 +1,5 @@
-# Practice for bioinformatics
-## Table of contents
+## Practice for bioinformatics
+### Table of contents
 * Basic skills
 * Advanced skills
 * File format
@@ -9,10 +9,10 @@
 * ChIP-seq analysis
 * CLIP-seq analysis
 * HiC analysis
-## Basic skills
+### Basic skills
 #### linux
 #### python and pandas
 #### python and pandas tutorial
-## File format
-## RNA-seq analysis
-## ScRNA-seq analysis 
+### File format
+### RNA-seq analysis
+### ScRNA-seq analysis 
