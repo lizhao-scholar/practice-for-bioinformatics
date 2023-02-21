@@ -6,6 +6,9 @@
 ### slop
 <div align=center>
   <img src="https://user-images.githubusercontent.com/124801933/220039706-6a3a96af-14e1-4f33-943a-93769f6341e4.png" alt="image" style="width:60%;text-align:center" /></div>
-
+Usage:
+```bash
+ddddddddddddd
+```
 ### fisher
 ### jaccard
