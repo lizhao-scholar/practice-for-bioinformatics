@@ -9,12 +9,9 @@
 * CLIP-seq analysis
 * HiC analysis
 ## Basic skills
-### linux
-### python and pandas
-### R
-### 
-## python and pandas tutorial
-## File format
+#### linux
+#### python and pandas
+#### python and pandas tutorial
+#### File format
 ## RNA-seq analysis
-## ScRNA-seq analysis
-## 
+## ScRNA-seq analysis 
