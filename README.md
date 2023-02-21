@@ -2,6 +2,7 @@
 ## Table of contents
 * Basic skills
 * Advanced skills
+* File format
 * RNA-seq analysis
 * scRNA-seq analysis
 * Variation analysis
@@ -12,6 +13,6 @@
 #### linux
 #### python and pandas
 #### python and pandas tutorial
-#### File format
+## File format
 ## RNA-seq analysis
 ## ScRNA-seq analysis 
