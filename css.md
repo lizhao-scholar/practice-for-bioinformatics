@@ -61,8 +61,27 @@ A CSS comment is placed inside the <style> element, and starts with /* and ends 
 
 ### CSS Colors
 * Background Color
+```javascript
+  h1 {
+    background-color: DodgerBlue;
+  }
+```
 * Text Color
+```javascript
+  h1 {
+    color: DodgerBlue;
+  }
+```
 * Border Color
-
+```javascript
+  h1 {
+    border: 2px solid Tomato;
+  }
+```
 ### CSS Backgrounds
-
+* Background Color
+  
+* Background Image
+* Background Repeat
+* Background Attachment
+* Background Shorthand
