@@ -60,4 +60,9 @@ All the styles in a page will "cascade" into a new "virtual" style sheet by the 
 A CSS comment is placed inside the <style> element, and starts with /* and ends with */:
 
 ### CSS Colors
+* Background Color
+* Text Color
+* Border Color
+
+### CSS Backgrounds
 
