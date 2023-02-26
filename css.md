@@ -57,4 +57,7 @@ All the styles in a page will "cascade" into a new "virtual" style sheet by the 
   2. External and internal style sheets (in the head section)
   3. Browser default
 ### CSS Comments
+A CSS comment is placed inside the <style> element, and starts with /* and ends with */:
+
+### CSS Colors
 
