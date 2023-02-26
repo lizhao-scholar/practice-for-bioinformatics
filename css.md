@@ -79,8 +79,14 @@ A CSS comment is placed inside the <style> element, and starts with /* and ends 
   }
 ```
 ### CSS Backgrounds
-* Background Color
-  
+The opacity property specifies the opacity/transparency of an element. It can take a value from 0.0 - 1.0. The lower value, the more transparent
+* Background Color 
+```javascript
+  h1 {
+    background-color: DodgerBlue;
+    opacity: 0.3;
+  }
+```
 * Background Image
 * Background Repeat
 * Background Attachment
